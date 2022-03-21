@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feyzullah DEMİR</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
-- 💬 Ask me about **Open Source (Wordpress , Opencart , prestashop ) , PHP , SQL , PYTHON DJANGO ,POSTGRESQL , HTML CSS JS**
+- 💬 Ask me about **Open Source (Wordpress , Opencart , Prestashop ) , PHP , SQL , PYTHON DJANGO ,POSTGRESQL , HTML CSS JS**
 
 - 📫 How to reach me **feyzullahdemir179@gmail.com**
 
